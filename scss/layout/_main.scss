@@ -1,3 +1,6 @@
+main {
+  flex-grow: 1;
+}
 .main__main-div {
   padding: 120px 165px 0px;
   position: relative;
@@ -211,8 +214,10 @@
       font-style: normal;
       font-weight: 700;
       line-height: 133.333%;
+      padding-bottom: 7px;
     }
     .main-middle-card-1__under-text__position__p {
+      word-spacing: 18px;
       color: $gray;
       font-family: Space Grotesk;
       font-size: 1.125rem;
