@@ -1,0 +1,624 @@
+.main__main-div {
+  padding: 120px 165px 0px;
+  position: relative;
+
+  .main-top__hr {
+    width: 1127px;
+    height: 1px;
+    margin-bottom: 72px;
+  }
+  .main-start {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    .main-start-experiences-parent {
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+      width: 100%;
+      max-width: 1110px;
+    }
+    .main-start__experience-1 {
+      width: 280px;
+      height: 200px;
+      .main-start__experience-1__p-h1 {
+        color: $white;
+
+        font-family: Space Grotesk;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 116.667%;
+        letter-spacing: -1.5px;
+        margin-bottom: 14px;
+      }
+      .main-start__experience-1__p-p-about {
+        color: $gray;
+
+        font-family: Space Grotesk;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 155.556%;
+      }
+    }
+    .main-start__experience-2 {
+      width: 280px;
+      height: 100px;
+      .main-start__experience-2__p-h1 {
+        color: $white;
+
+        font-family: Space Grotesk;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 116.667%;
+        letter-spacing: -1.5px;
+        margin-bottom: 14px;
+      }
+      .main-start__experience-2__p-p-about {
+        color: $gray;
+
+        font-family: Space Grotesk;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 155.556%;
+      }
+    }
+    .main-start__experience-3 {
+      width: 280px;
+      height: 100px;
+      .main-start__experience-3__p-h1 {
+        color: $white;
+
+        font-family: Space Grotesk;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 116.667%;
+        letter-spacing: -1.5px;
+        margin-bottom: 14px;
+      }
+      .main-start__experience-3__p-p-about {
+        color: $gray;
+
+        font-family: Space Grotesk;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 155.556%;
+      }
+    }
+    .main-start__experience-4 {
+      width: 280px;
+      height: 100px;
+      .main-start__experience-4__p-h1 {
+        color: $white;
+
+        font-family: Space Grotesk;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 116.667%;
+        letter-spacing: -1.5px;
+        margin-bottom: 14px;
+      }
+      .main-start__experience-4__p-p-about {
+        color: $gray;
+
+        font-family: Space Grotesk;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 155.556%;
+      }
+    }
+    .main-start__experience-5 {
+      width: 280px;
+      height: 100px;
+      .main-start__experience-5__p-h1 {
+        color: $white;
+
+        font-family: Space Grotesk;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 116.667%;
+        letter-spacing: -1.5px;
+        margin-bottom: 14px;
+      }
+      .main-start__experience-5__p-p-about {
+        color: $gray;
+
+        font-family: Space Grotesk;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 155.556%;
+      }
+    }
+    .main-start__experience-6 {
+      width: 280px;
+      height: 100px;
+      .main-start__experience-6__p-h1 {
+        color: $white;
+
+        font-family: Space Grotesk;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 116.667%;
+        letter-spacing: -1.5px;
+        margin-bottom: 14px;
+      }
+      .main-start__experience-6__p-p-about {
+        color: $gray;
+
+        font-family: Space Grotesk;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 155.556%;
+      }
+    }
+  }
+  .main-middle-top {
+    width: 1240px;
+    margin-top: 140px;
+    margin-bottom: 80px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .main-middle-top__h2 {
+      color: $white;
+
+      font-family: Space Grotesk;
+      font-size: 88px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 100%;
+      letter-spacing: -2.5px;
+    }
+    .main-link-contact-us {
+      color: $white;
+      font-family: Space Grotesk;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 162.5%;
+      letter-spacing: 2.286px;
+      transition: color 0.3s ease;
+    }
+    .main__link-contact-us-hr {
+      width: 115px;
+      height: 2px;
+      background-color: $green;
+      margin-top: 10px;
+      border: 0px solid $green;
+    }
+
+    .main-link-contact-us:hover {
+      color: $green;
+    }
+  }
+  .main-middle-card-1__under-text__position {
+    margin: 20px 0px;
+    .main-middle-card-1__under-text__position__h2 {
+      color: $white;
+      font-family: Space Grotesk;
+      font-size: 1.5rem;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 133.333%;
+    }
+    .main-middle-card-1__under-text__position__p {
+      color: $gray;
+      font-family: Space Grotesk;
+      font-size: 1.125rem;
+      font-style: normal;
+      font-weight: 500;
+      line-height: 155.556%;
+    }
+  }
+
+  .main-middle-cards-parent {
+    flex-wrap: wrap;
+    gap: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    .main-middle-card-1 {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 525px;
+      height: 400px;
+      background-image: url("../../images/jpg/project-design-portfolio.jpg");
+      transition: opacity 0.3s ease;
+      .main-middle-card-1__content {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+        flex-direction: column;
+        opacity: 0;
+      }
+      .main-middle-card-1__link {
+        color: $white;
+        font-family: Space Grotesk;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 162.5%;
+        letter-spacing: 2.286px;
+        transition: color 0.3s ease;
+      }
+      .main-middle-card-1__link__hr {
+        width: 100%;
+        height: 2px;
+        background-color: $green;
+        margin-top: 10px;
+        border: 0px solid $green;
+      }
+      .main-middle-card-1__link:hover {
+        color: $green;
+      }
+      .main-middle-card-2__link {
+        color: $white;
+        font-family: Space Grotesk;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 162.5%;
+        letter-spacing: 2.286px;
+        transition: color 0.3s ease;
+      }
+      .main-middle-card-2__link:hover {
+        color: $green;
+      }
+      .main-middle-card-2__link__hr {
+        width: 100%;
+        height: 2px;
+        background-color: $green;
+        margin-top: 10px;
+        border: 0px solid $green;
+      }
+    }
+    .main-middle-card-1:hover {
+      background-image: linear-gradient(
+          rgba(0, 0, 0, 0.75),
+          rgba(0, 0, 0, 0.75)
+        ),
+        url("../../images/jpg/project-design-portfolio.jpg");
+    }
+    .main-middle-card-1:hover .main-middle-card-1__content {
+      opacity: 100;
+    }
+    .main-middle-card-2 {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 525px;
+      height: 400px;
+      background-image: url("../../images/jpg/project-e-learning-landing-page.jpg");
+      transition: opacity 0.3s ease;
+      .main-middle-card-2__content {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 50px;
+        flex-direction: column;
+        opacity: 0;
+      }
+      .main-middle-card-1__link {
+        color: $white;
+        font-family: Space Grotesk;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 162.5%;
+        letter-spacing: 2.286px;
+        transition: color 0.3s ease;
+      }
+      .main-middle-card-1__link__hr {
+        width: 100%;
+        height: 2px;
+        background-color: $green;
+        margin-top: 10px;
+        border: 0px solid $green;
+      }
+
+      .main-middle-card-2__link {
+        color: $white;
+        font-family: Space Grotesk;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 162.5%;
+        letter-spacing: 2.286px;
+        transition: color 0.3s ease;
+      }
+      .main-middle-card-1__link:hover {
+        color: $green;
+      }
+      .main-middle-card-2__link:hover {
+        color: $green;
+      }
+      .main-middle-card-2__link__hr {
+        width: 100%;
+        height: 2px;
+        background-color: $green;
+        margin-top: 10px;
+        border: 0px solid $green;
+      }
+    }
+    .main-middle-card-2:hover {
+      background-image: linear-gradient(
+          rgba(0, 0, 0, 0.75),
+          rgba(0, 0, 0, 0.75)
+        ),
+        url("../../images/jpg/project-e-learning-landing-page.jpg");
+    }
+    .main-middle-card-2:hover .main-middle-card-2__content {
+      opacity: 100;
+    }
+  }
+  .main-middle-card-3 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 525px;
+    height: 400px;
+    background-image: url("../../images/jpg/project-todo-web-app.jpg");
+    transition: opacity 0.3s ease;
+    .main-middle-card-3__content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 50px;
+      flex-direction: column;
+      opacity: 0;
+    }
+    .main-middle-card-1__link {
+      color: $white;
+      font-family: Space Grotesk;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 162.5%;
+      letter-spacing: 2.286px;
+      transition: color 0.3s ease;
+    }
+    .main-middle-card-1__link__hr {
+      width: 100%;
+      height: 2px;
+      background-color: $green;
+      margin-top: 10px;
+      border: 0px solid $green;
+    }
+    .main-middle-card-1__link:hover {
+      color: $green;
+    }
+    .main-middle-card-2__link {
+      color: $white;
+      font-family: Space Grotesk;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 162.5%;
+      letter-spacing: 2.286px;
+      transition: color 0.3s ease;
+    }
+    .main-middle-card-2__link:hover {
+      color: $green;
+    }
+    .main-middle-card-3__link__hr {
+      width: 100%;
+      height: 2px;
+      background-color: $green;
+      margin-top: 10px;
+      border: 0px solid $green;
+    }
+  }
+  .main-middle-card-3:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+      url("../../images/jpg/project-todo-web-app.jpg");
+  }
+  .main-middle-card-3:hover .main-middle-card-3__content {
+    opacity: 100;
+  }
+
+  .main-middle-card-4 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 525px;
+    height: 400px;
+    background-image: url("../../images/jpg/project-entertainment-web-app.jpg");
+    transition: opacity 0.3s ease;
+    .main-middle-card-4__content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 50px;
+      flex-direction: column;
+      opacity: 0;
+    }
+    .main-middle-card-1__link {
+      color: $white;
+      font-family: Space Grotesk;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 162.5%;
+      letter-spacing: 2.286px;
+      transition: color 0.3s ease;
+    }
+    .main-middle-card-1__link__hr {
+      width: 100%;
+      height: 2px;
+      background-color: $green;
+      margin-top: 10px;
+      border: 0px solid $green;
+    }
+    .main-middle-card-1__link:hover {
+      color: $green;
+    }
+    .main-middle-card-2__link {
+      color: $white;
+      font-family: Space Grotesk;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 162.5%;
+      letter-spacing: 2.286px;
+      transition: color 0.3s ease;
+    }
+    .main-middle-card-2__link:hover {
+      color: $green;
+    }
+    .main-middle-card-4__link__hr {
+      width: 100%;
+      height: 2px;
+      background-color: $green;
+      margin-top: 10px;
+      border: 0px solid $green;
+    }
+  }
+  .main-middle-card-4:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+      url("../../images/jpg/project-entertainment-web-app.jpg");
+  }
+  .main-middle-card-4:hover .main-middle-card-4__content {
+    opacity: 100;
+  }
+  .main-middle-card-5 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 525px;
+    height: 400px;
+    background-image: url("../../images/jpg/project-memory-app.jpg");
+    transition: opacity 0.3s ease;
+    .main-middle-card-5__content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 50px;
+      flex-direction: column;
+      opacity: 0;
+    }
+    .main-middle-card-1__link {
+      color: $white;
+      font-family: Space Grotesk;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 162.5%;
+      letter-spacing: 2.286px;
+      transition: color 0.3s ease;
+    }
+    .main-middle-card-1__link__hr {
+      width: 100%;
+      height: 2px;
+      background-color: $green;
+      margin-top: 10px;
+      border: 0px solid $green;
+    }
+    .main-middle-card-1__link:hover {
+      color: $green;
+    }
+    .main-middle-card-2__link {
+      color: $white;
+      font-family: Space Grotesk;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 162.5%;
+      letter-spacing: 2.286px;
+      transition: color 0.3s ease;
+    }
+    .main-middle-card-2__link:hover {
+      color: $green;
+    }
+    .main-middle-card-5__link__hr {
+      width: 100%;
+      height: 2px;
+      background-color: $green;
+      margin-top: 10px;
+      border: 0px solid $green;
+    }
+  }
+  .main-middle-card-5:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+      url("../../images/jpg/project-memory-app.jpg");
+  }
+  .main-middle-card-5:hover .main-middle-card-5__content {
+    opacity: 100;
+  }
+  .main-middle-card-6 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 525px;
+    height: 400px;
+    background-image: url("../../images/jpg/project-art-gallery-showcase.jpg");
+    transition: opacity 0.3s ease;
+    .main-middle-card-6__content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 50px;
+      flex-direction: column;
+      opacity: 0;
+    }
+    .main-middle-card-1__link {
+      color: $white;
+      font-family: Space Grotesk;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 162.5%;
+      letter-spacing: 2.286px;
+      transition: color 0.3s ease;
+    }
+    .main-middle-card-1__link__hr {
+      width: 100%;
+      height: 2px;
+      background-color: $green;
+      margin-top: 10px;
+      border: 0px solid $green;
+    }
+    .main-middle-card-1__link:hover {
+      color: $green;
+    }
+    .main-middle-card-2__link {
+      color: $white;
+      font-family: Space Grotesk;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 700;
+      line-height: 162.5%;
+      letter-spacing: 2.286px;
+      transition: color 0.3s ease;
+    }
+    .main-middle-card-2__link:hover {
+      color: $green;
+    }
+    .main-middle-card-6__link__hr {
+      width: 100%;
+      height: 2px;
+      background-color: $green;
+      margin-top: 10px;
+      border: 0px solid $green;
+    }
+  }
+  .main-middle-card-6:hover {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)),
+      url("../../images/jpg/project-art-gallery-showcase.jpg");
+  }
+  .main-middle-card-6:hover .main-middle-card-6__content {
+    opacity: 100;
+  }
+}
