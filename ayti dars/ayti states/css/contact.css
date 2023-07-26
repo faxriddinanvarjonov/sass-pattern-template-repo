@@ -1,0 +1,19 @@
+.contact {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 35px;
+}
+.div {
+  box-sizing: border-box;
+  background-color: aqua;
+  padding: 50px;
+  margin-top: 50px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+img {
+  margin-right: 50px;
+  margin-left: 50px;
+}
+body {
+  background-color: aquamarine;
+}

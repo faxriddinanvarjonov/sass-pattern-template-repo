@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.container {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 50px;
+  padding-right: 50px;
+}
+.divbir {
+  background-color: #0eb4c1;
+  color: white;
+}
+.qabul {
+  background-color: #de2e54;
+  color: white;
+  padding: 12px 24px 12px 24px;
+}

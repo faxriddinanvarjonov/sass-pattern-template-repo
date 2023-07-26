@@ -1,0 +1,40 @@
+.header-ul {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+.header-a-links {
+  color: white;
+  color: #fff;
+  font-family: Livvic;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 155.556%;
+}
+.header {
+  background: #014e56;
+  padding: 73px 0px 129px 0px;
+  width: 1440px;
+  height: 700px;
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+.header-link-1 {
+  margin-left: 80px;
+}
+.header-links-last {
+  margin-left: 577px;
+  padding: 9px 33px 11px 32px;
+  width: 153px;
+  height: 48px;
+  flex-shrink: 0;
+  border-radius: 24px;
+  border: 2px solid #fff;
+}
+.header-top {
+  display: flex;
+  justify-content: center;
+}

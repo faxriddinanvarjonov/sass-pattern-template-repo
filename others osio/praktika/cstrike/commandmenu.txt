@@ -1,0 +1,93 @@
+"1" "ADD ZBOT"
+{
+     "1" "Quick add zbot"		"bot_add"
+     "2" "Set zbot"
+     {
+               "1" "Easy"		"bot_difficulty 0"
+               "2" "Normal"		"bot_difficulty 1"
+               "3" "Hard"		"bot_difficulty 2"
+               "5" "Expert"		"bot_difficulty 3"
+     }
+     "3" "Add a specific zbot"
+	{
+          "1" "Add a terrorist"		"bot_add_t"
+          "2" "Add a counter-terrorist"	"bot_add_ct"
+     	}
+
+}
+"2" "ZBOT MISC"
+   {
+       "1" "Endround"						"bot_kill"
+       "2" "Kick all (or 'bot_kick name')"			"bot_kick"
+       "3" "ZBot quota"
+    {
+	"1" "min 12"		"bot_quota 12"
+	"2" "min 14"		"bot_quota 14"
+	"3" "min 16"		"bot_quota 16"
+	"4" "min 18 "		"bot_quota 18"
+	"5" "min 20"		"bot_quota 20"
+    }
+   }
+"3" "BOTS SETTINGS"
+{
+    "1" "Weapon mode"
+    {
+	"1" "knives only"		"bot_knives_only"
+	"2" "pistols only"		"bot_pistols_only"
+	"3" "snipers only"		"bot_snipers_only"
+	"4" "all weapons"		"bot_all_weapons"
+    }
+    "2" "Zbot join team"
+	{
+          "1" "terrorist"		"bot_join_team t"
+          "2" "counter-terrorist"	"bot_join_team ct"
+          "3" "Any"			"bot_join_team any"
+     	}
+}
+"4" "Оставшееся время"		"timeleft"
+"5" "Прицел"
+{
+	"1" "Изменить цвет"		"adjust_crosshair"
+	"2" "Размер"
+	{
+		"1" "Авто"		"cl_crosshair_size auto"
+		"2" "Маленький"	"cl_crosshair_size small"
+		"3" "Средний"	"cl_crosshair_size medium"
+		"4" "Большой"	"cl_crosshair_size large"
+	}
+	"3" "Прозрачность"
+	{
+		"1" "Откл."		"cl_crosshair_translucent 0"
+		"2" "Вкл."		"cl_crosshair_translucent 1"
+	}
+	"4" "Динамичность"
+	{
+		"1" "Откл."		"cl_dynamiccrosshair 0"
+		"2" "Вкл."		"cl_dynamiccrosshair 1"
+	}
+}
+"6" "Рука"
+{
+	"1" "Левая"		"cl_righthand 0"
+	"2" "Правая"	"cl_righthand 1"
+}
+
+"7" "Настройки сервера"
+{
+	"1" "Рестарт раунда"	"sv_restartround 1"
+	"2" "Баланс. команд"
+	{
+		"1" "Откл."		"mp_autoteambalance 0"
+		"2" "Вкл."		"mp_autoteambalance 1"
+	}
+	"3" "Limit Teams 0"	"mp_limitteams 0"
+	"4" "Чит-команды"
+	{
+		"1" "Вкл."	"sv_cheats 1"
+		"2" "Откл."	"sv_cheats 0"
+	}
+	"5" "+ 16000$"			"impulse 101"
+	"6" "Рестарт сервера"	"restart"
+}
+
+"0" "Выход" "slot10"

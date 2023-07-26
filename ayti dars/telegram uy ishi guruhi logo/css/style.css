@@ -1,0 +1,15 @@
+body {
+  background: rgb(49, 34, 221);
+  background: linear-gradient(
+    90deg,
+    rgba(49, 34, 221, 1) 33%,
+    rgba(205, 53, 221, 1) 66%
+  );
+}
+.p {
+  font-size: 270px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

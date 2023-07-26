@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  justify-content: center;
+  align-items: center;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+  background: #e0e8ff;
+  background-image: url(../img/Path.svg);
+}
+section {
+  background-color: #fff;
+  width: 450px;
+  min-height: 477px;
+  padding-left: 15px;
+  padding-top: 40px;
+  justify-content: center;
+}
+.backimg {
+  background-color: #f7f9ff;
+  margin-top: 20px;
+  margin-left: 48px;
+  margin-right: 48px;
+  margin-bottom: 32px;
+  content: 40px;
+}
+.omg {
+  background-color: #382ae1;
+  height: 50px;
+  width: 354px;
+  margin-left: 32px;
+  padding-top: 13px;
+}
+.text {
+  margin-left: 48px;
+}
+.cancel {
+  margin-top: 32px;
+  margin-left: 166px;
+  margin-right: 178px;
+  margin-bottom: 48px;
+  color: #0000002d;
+}
+.imgbir {
+  margin-top: 102px;
+}
+.music {
+  margin-left: 66px;
+  margin-top: 10px;
+}
+p {
+  text-align-last: center;
+  justify-content: center;
+}
+h1 {
+  text-align-last: center;
+  justify-content: center;
+}
+.musicemblema {
+}

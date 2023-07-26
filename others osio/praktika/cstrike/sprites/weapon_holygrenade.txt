@@ -1,0 +1,4 @@
+3
+weapon		640 holygrenade	0	0	170	45
+weapon_s	640 holygrenade	0	0	170	45
+ammo		640 holygrenade	0	45	24	24

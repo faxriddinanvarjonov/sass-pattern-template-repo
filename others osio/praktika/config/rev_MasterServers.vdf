@@ -1,0 +1,14 @@
+"MasterServers"
+{
+	"hl1"
+	{
+		"0"
+		{
+			"addr"		"ms.cs-all-servers.ru:27010"
+		}
+		"1"
+		{
+			"addr"		"ms2.cs-all-servers.ru:27010"
+		}
+	}
+}

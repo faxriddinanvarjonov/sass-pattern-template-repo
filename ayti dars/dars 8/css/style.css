@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.parent {
+  display: flex;
+  justify-content: space-around;
+  background-color: lightblue;
+}
+
+.child-child-green {
+  background-color: lightgreen;
+}
+.child-child-gold {
+  background-color: gold;
+}
+.child-child-orange {
+  background-color: orange;
+}

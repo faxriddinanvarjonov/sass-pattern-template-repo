@@ -1,0 +1,28 @@
+html {
+  height: 100%;
+}
+
+body {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  background-color: cornflowerblue;
+  color: #fff;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+  width: 300px;
+  transition: 0.3s;
+}
+
+.box:hover {
+  transform: scale(1.5) rotate(30deg);
+  /*transform: skew(60deg);*/
+  /* transform: translate(100px, 200px);*/
+}

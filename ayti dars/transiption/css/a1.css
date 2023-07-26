@@ -1,0 +1,32 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: lightsalmon;
+}
+body {
+  background-color: #85ffbd;
+  background-image: linear-gradient(45deg, #85ffbd 0%, #fffb7d 100%);
+}
+.img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.h2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  color: brown;
+  font-size: 30px;
+  transition: color 0.5s ease;
+}
+.h2:hover {
+  color: #fffb7d;
+}

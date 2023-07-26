@@ -1,0 +1,43 @@
+::after,
+::before,
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+}
+
+ul,
+ol {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  display: inline-block;
+}
+img {
+  display: flex;
+  object-fit: cover;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  font-family: "proppins", Arial, Helwestica, sans-serif;
+  font-weight: 500;
+  line-height: 1.66;
+  color: #58585858;
+}
+.container {
+  width: 100%;
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
+main {
+  flex-grow: 1;
+}
+.active {
+  color: #f58a07 !important;
+}
